@@ -31,3 +31,5 @@ In the dynamic landscape of weather applications, WeatherNow stands out as a met
 
    ```bash
    git clone https://github.com/yourusername/WeatherNow.git
+
+   ![](Sunny.jpeg)
