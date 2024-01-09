@@ -18,6 +18,12 @@ In the dynamic landscape of weather applications, WeatherNow stands out as a met
 
 - **Third-Party Library Integration:** The project showcases the integration of the GSON library, emphasizing the use of external resources to enhance functionality.
 
+## Sample Screenshots
+
+![Cloudy](Cloudy.jpeg)
+![Splash Screen](SplashScreen.jpeg)
+![Sunny](Sunny.jpeg)
+
 ## Getting Started
 
 ### Prerequisites
@@ -31,5 +37,3 @@ In the dynamic landscape of weather applications, WeatherNow stands out as a met
 
    ```bash
    git clone https://github.com/yourusername/WeatherNow.git
-
-   ![](Sunny.jpeg)
