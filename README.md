@@ -20,8 +20,8 @@ In the dynamic landscape of weather applications, WeatherNow stands out as a met
 
 ## Sample Screenshots
 
-![Cloudy](Cloudy.jpeg)
 ![Splash Screen](SplashScreen.jpeg)
+![Cloudy](Cloudy.jpeg)
 ![Sunny](Sunny.jpeg)
 
 ## Getting Started
